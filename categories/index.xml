@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Old Gamers Ranting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <copyright>© 2017 Old Gamers Ranting. All Rights Reserved</copyright>
     
 	<atom:link href="http://oldgamersranting.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pseudo</title>
+      <link>http://oldgamersranting.com/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://oldgamersranting.com/categories/pseudo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
