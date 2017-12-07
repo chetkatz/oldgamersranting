@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Old Gamers Ranting</title>
-    <link>https://chetkatz.github.io/oldgamersranting/categories/</link>
+    <link>http://oldgamersranting.com/categories/</link>
     <description>Recent content in Categories on Old Gamers Ranting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
     
-	<atom:link href="https://chetkatz.github.io/oldgamersranting/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://oldgamersranting.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
