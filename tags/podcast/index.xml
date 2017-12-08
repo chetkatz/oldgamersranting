@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Old Gamers Ranting</title>
-    <link>http://oldgamersranting.com/tags/hugo/</link>
-    <description>Recent content in Hugo on Old Gamers Ranting</description>
+    <title>Podcast on Old Gamers Ranting</title>
+    <link>http://oldgamersranting.com/tags/podcast/</link>
+    <description>Recent content in Podcast on Old Gamers Ranting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Old Gamers Ranting. All Rights Reserved</copyright>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="http://oldgamersranting.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://oldgamersranting.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Old Gamers Ranting</title>
-      <link>http://oldgamersranting.com/blog/2015/08/03/old-gamers-ranting/</link>
+      <title>Intro Podcast</title>
+      <link>http://oldgamersranting.com/blog/2015/08/03/intro-podcast/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://oldgamersranting.com/blog/2015/08/03/old-gamers-ranting/</guid>
+      <guid>http://oldgamersranting.com/blog/2015/08/03/intro-podcast/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

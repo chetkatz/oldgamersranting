@@ -7,16 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Old Gamers Ranting. All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="http://oldgamersranting.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Pseudo</title>
-      <link>http://oldgamersranting.com/categories/pseudo/</link>
+      <title>Blog</title>
+      <link>http://oldgamersranting.com/categories/blog/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://oldgamersranting.com/categories/pseudo/</guid>
+      <guid>http://oldgamersranting.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://oldgamersranting.com/categories/podcasts/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://oldgamersranting.com/categories/podcasts/</guid>
       <description></description>
     </item>
     
