@@ -7,23 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Old Gamers Ranting. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 18:39:00 -0500</lastBuildDate>
     
 	<atom:link href="http://oldgamersranting.com/tags/destiny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Old Gamers Ranting</title>
-      <link>http://oldgamersranting.com/blog/2015/08/03/old-gamers-ranting/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>A Man and His Bird</title>
+      <link>http://oldgamersranting.com/blog/2017/12/07/a-man-and-his-bird/</link>
+      <pubDate>Thu, 07 Dec 2017 18:39:00 -0500</pubDate>
       
-      <guid>http://oldgamersranting.com/blog/2015/08/03/old-gamers-ranting/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://oldgamersranting.com/blog/2017/12/07/a-man-and-his-bird/</guid>
+      <description>Reginald Hawkins There are many untold stories behind Bungie&amp;rsquo;s Destiny. This is the tale of a man, a guardian, and his hawk.</description>
     </item>
     
   </channel>

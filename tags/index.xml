@@ -7,62 +7,125 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Old Gamers Ranting. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2017 10:35:00 -0500</lastBuildDate>
     
 	<atom:link href="http://oldgamersranting.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>http://oldgamersranting.com/tags/about/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borg</title>
+      <link>http://oldgamersranting.com/tags/borg/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/borg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chetkatz</title>
+      <link>http://oldgamersranting.com/tags/chetkatz/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/chetkatz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Destiny</title>
       <link>http://oldgamersranting.com/tags/destiny/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <pubDate>Thu, 07 Dec 2017 18:39:00 -0500</pubDate>
       
       <guid>http://oldgamersranting.com/tags/destiny/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://oldgamersranting.com/tags/hugo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>First</title>
+      <link>http://oldgamersranting.com/tags/first/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
       
-      <guid>http://oldgamersranting.com/tags/hugo/</guid>
+      <guid>http://oldgamersranting.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gta</title>
+      <link>http://oldgamersranting.com/tags/gta/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/gta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gtao</title>
+      <link>http://oldgamersranting.com/tags/gtao/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/gtao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>http://oldgamersranting.com/tags/intro/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ogr</title>
+      <link>http://oldgamersranting.com/tags/ogr/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/ogr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oldgamersranting</title>
+      <link>http://oldgamersranting.com/tags/oldgamersranting/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
+      
+      <guid>http://oldgamersranting.com/tags/oldgamersranting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
       <link>http://oldgamersranting.com/tags/podcast/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <pubDate>Fri, 01 Dec 2017 23:00:00 -0500</pubDate>
       
       <guid>http://oldgamersranting.com/tags/podcast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>http://oldgamersranting.com/tags/programming/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>http://oldgamersranting.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shenanigans</title>
       <link>http://oldgamersranting.com/tags/shenanigans/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <pubDate>Thu, 07 Dec 2017 18:39:00 -0500</pubDate>
       
       <guid>http://oldgamersranting.com/tags/shenanigans/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme</title>
-      <link>http://oldgamersranting.com/tags/theme/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Startrek</title>
+      <link>http://oldgamersranting.com/tags/startrek/</link>
+      <pubDate>Fri, 08 Dec 2017 10:35:00 -0500</pubDate>
       
-      <guid>http://oldgamersranting.com/tags/theme/</guid>
+      <guid>http://oldgamersranting.com/tags/startrek/</guid>
       <description></description>
     </item>
     

@@ -3,35 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://oldgamersranting.com/blog/2015/08/03/a-man-and-his-bird/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://oldgamersranting.com/blog/2017/12/08/old-gamers-ranting/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oldgamersranting.com/blog/2015/08/03/intro-podcast/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://oldgamersranting.com/blog/2017/12/07/a-man-and-his-bird/</loc>
+    <lastmod>2017-12-07T18:39:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oldgamersranting.com/blog/2015/08/03/old-gamers-ranting/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://oldgamersranting.com/blog/2017/12/01/intro-podcast/</loc>
+    <lastmod>2017-12-01T23:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/about/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/categories/blog/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/blog/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/borg/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/categories/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/chetkatz/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,7 +59,7 @@
   
   <url>
     <loc>http://oldgamersranting.com/tags/destiny/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-07T18:39:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,50 +68,74 @@
   </url>
   
   <url>
-    <loc>http://oldgamersranting.com/tags/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://oldgamersranting.com/tags/first/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/gta/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/gtao/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/intro/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/ogr/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/oldgamersranting/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/tags/podcast/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-01T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/categories/podcasts/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://oldgamersranting.com/tags/programming/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-01T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/tags/shenanigans/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-07T18:39:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/startrek/</loc>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oldgamersranting.com/tags/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://oldgamersranting.com/tags/theme/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
