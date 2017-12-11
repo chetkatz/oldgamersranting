@@ -64,10 +64,6 @@
   </url>
   
   <url>
-    <loc>http://oldgamersranting.com/faq/</loc>
-  </url>
-  
-  <url>
     <loc>http://oldgamersranting.com/tags/first/</loc>
     <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
@@ -137,6 +133,10 @@
     <loc>http://oldgamersranting.com/tags/</loc>
     <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/dinklage/</loc>
   </url>
   
 </urlset>
