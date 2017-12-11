@@ -75,6 +75,12 @@
   </url>
   
   <url>
+    <loc>http://oldgamersranting.com/tags/games/</loc>
+    <lastmod>2017-12-11T12:20:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://oldgamersranting.com/tags/gta/</loc>
     <lastmod>2017-12-08T10:35:00-05:00</lastmod>
     <priority>0</priority>
@@ -142,6 +148,12 @@
   
   <url>
     <loc>http://oldgamersranting.com/dinklage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://oldgamersranting.com/tags/videogames/</loc>
+    <lastmod>2017-12-11T12:20:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
